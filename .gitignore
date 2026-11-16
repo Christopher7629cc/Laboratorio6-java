@@ -1,1 +1,24 @@
+# Compilados Java
+*.class
 
+# Resultado del autograde (NO subir al repo)
+resultado_autograde.json
+autograde_output.txt
+issue_pendiente.txt
+autograde_oficial.java
+autograde_oficial.yml
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
